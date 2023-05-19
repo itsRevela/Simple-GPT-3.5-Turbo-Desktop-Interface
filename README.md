@@ -2,6 +2,12 @@
 
 This project provides a simple and interactive Python-based user interface (UI) for OpenAI's GPT-3.5 Turbo model. It allows you to enter both system prompts and user messages to guide the AI's responses, making it easier to experiment with the capabilities of the model.
 
+## Windows Release
+https://github.com/itsRevela/Simple-GPT-3.5-Turbo-Desktop-Interface/blob/master/dist/GPT-3.5%20Turbo%20-%20Public%20Release.exe
+
+## Python Program
+https://github.com/itsRevela/Simple-GPT-3.5-Turbo-Desktop-Interface/blob/master/idea-generator-v1.01-public.py
+
 ## Getting Started
 
 The following instructions will guide you on how to run this project on your local machine.
