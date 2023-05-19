@@ -1,4 +1,4 @@
-## Project Title: Simple UI for ChatGPT 3.5 Turbo with System/Message Prompt Access
+## Simple UI for ChatGPT 3.5 Turbo with System/Message Prompt Access
 
 This project provides a simple and interactive Python-based user interface (UI) for OpenAI's GPT-3.5 Turbo model. It allows you to enter both system prompts and user messages to guide the AI's responses, making it easier to experiment with the capabilities of the model.
 
