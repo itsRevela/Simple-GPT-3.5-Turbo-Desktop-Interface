@@ -8,6 +8,8 @@ https://github.com/itsRevela/Simple-GPT-3.5-Turbo-Desktop-Interface/blob/master/
 ## Python Program
 https://github.com/itsRevela/Simple-GPT-3.5-Turbo-Desktop-Interface/blob/master/idea-generator-v1.01-public.py
 
+https://github.com/itsRevela/Simple-GPT-3.5-Turbo-Desktop-Interface/blob/d8cd4ea57da1d0bf1d7424b7368da25e0d6f2f98/demo.png
+
 ## Getting Started
 
 The following instructions will guide you on how to run this project on your local machine.
