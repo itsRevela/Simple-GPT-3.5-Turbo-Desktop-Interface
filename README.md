@@ -21,7 +21,7 @@ The following instructions will guide you on how to run this project on your loc
 ## Requirements
 
 - An API key from OpenAI. You can get it from the OpenAI website after registration.
-- Python 3.7 or higher
+- Python 3.7 or higher (I compiled this program with Python 3.11.3)
 - openai module
 - tkinter module
 - pyperclip module
