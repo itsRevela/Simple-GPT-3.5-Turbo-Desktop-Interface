@@ -14,10 +14,9 @@ The following instructions will guide you on how to run this project on your loc
 
 ## Usage
 
-Clone the repository or download the project files.
-Replace the openai.api_key variable in the script with your own API key.
-Run the script using Python.
-Application Features
+- Clone the repository or download the project files.
+- Replace the openai.api_key variable in the script with your own API key.
+- Run the script using Python.
 
 ## Requirements
 
@@ -82,22 +81,24 @@ And that's it! You've set up and run the Python program.
 
 ## The application has the following main features:
 
-API Key Entry: Allows the user to input their OpenAI API key.
-Prompt Entry: Allows the user to enter a system prompt that guides the AI's responses.
-Message Entry: Allows the user to enter a message which is added to the list of system and user messages used to guide the AI's response.
-Output Box: Displays the AI's response.
+Text input:
+- API Key Entry: Allows the user to input their OpenAI API key.
+- Prompt Entry: Allows the user to enter a system prompt that guides the AI's responses.
+- Message Entry: Allows the user to enter a message which is added to the list of system and user messages used to guide the AI's response.
+- Output Box: Displays the AI's response.
+
 Control Buttons:
-Submit Key: Submits the API Key and checks its validity.
-Submit Prompt: Submits the system prompt and initiates the AI's response generation.
-Submit Message: Submits the user's message and initiates the AI's response generation.
-Copy Output: Copies the contents of the output box to the clipboard.
-Clear Output: Clears the contents of the output box.
+- Submit Key: Submits the API Key and checks its validity.
+- Submit Prompt: Submits the system prompt and initiates the AI's response generation.
+- Submit Message: Submits the user's message and initiates the AI's response generation.
+- Copy Output: Copies the contents of the output box to the clipboard.
+- Clear Output: Clears the contents of the output box.
 
 ## Built with
 
-Python
-Tkinter
-OpenAI
+- Python
+- Tkinter
+- OpenAI
 
 ## Note
 
