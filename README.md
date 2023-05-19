@@ -21,7 +21,8 @@ openai, tkinter, and pyperclip Python libraries. You can install these libraries
 pip install openai tkinter pyperclip
 
 An API key from OpenAI. You can get it from the OpenAI website after registration.
-Usage
+
+## Usage
 
 Clone the repository or download the project files.
 Replace the openai.api_key variable in the script with your own API key.
