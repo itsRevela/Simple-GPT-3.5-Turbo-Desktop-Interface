@@ -12,22 +12,73 @@ https://github.com/itsRevela/Simple-GPT-3.5-Turbo-Desktop-Interface/blob/master/
 
 The following instructions will guide you on how to run this project on your local machine.
 
-## Prerequisites
-
-You need to have the following installed on your local machine:
-
-Python 3
-openai, tkinter, and pyperclip Python libraries. You can install these libraries using pip:
-pip install openai tkinter pyperclip
-
-An API key from OpenAI. You can get it from the OpenAI website after registration.
-
 ## Usage
 
 Clone the repository or download the project files.
 Replace the openai.api_key variable in the script with your own API key.
 Run the script using Python.
 Application Features
+
+## Requirements
+
+- An API key from OpenAI. You can get it from the OpenAI website after registration.
+- Python 3.7 or higher
+- openai module
+- tkinter module
+- pyperclip module
+
+## Installation Guide
+
+### Step 1: Installing Python
+
+1. Visit the official Python website at https://www.python.org/.
+2. Hover over the Downloads tab and click on Python 3.x.x (or the latest version available).
+3. Download the installation file, run it, and follow the instructions in the installer. Make sure to check the box that asks if you want to 'Add Python 3.x to PATH' before you click on 'Install Now'.
+
+### Step 2: Setting Up a Virtual Python Environment
+
+It's a good practice to create a virtual environment for each of your Python projects. Here's how you can do it:
+
+1. Open your command prompt (Windows) or terminal (MacOS, Linux).
+2. Navigate to the directory where you want your project to live using the 'cd' command followed by your desired directory.
+3. Once you're in the desired directory, run the following command to create a virtual environment:
+
+   python3 -m venv env
+
+4. Activate the virtual environment:
+
+   - Windows:
+     .\env\Scripts\activate
+
+   - MacOS/Linux:
+     source env/bin/activate
+
+You should now see `(env)` before the path in your command prompt or terminal. This means that the virtual environment is active.
+
+### Step 3: Installing the Dependencies
+
+Now you need to install the dependencies required for this project:
+
+1. Ensure your virtual environment is active. If it's active, you'll see `(env)` on your command prompt or terminal.
+2. Run the following command to install the necessary Python packages:
+
+   pip install openai tkinter pyperclip
+
+### Step 4: Running the Program
+
+With Python and the necessary packages installed, you can now run the program:
+
+1. Download the Python file and place it in the same directory as your virtual environment.
+2. In your terminal, ensure your virtual environment is active, navigate to the directory where your Python file is located if you're not already there.
+3. Run the program with the following command:
+
+   python file_name.py
+
+   Replace "file_name.py" with the name of your Python script.
+
+Please replace the OpenAI API key in the code with your actual API key to make the program work correctly.
+
+And that's it! You've set up and run the Python program.
 
 ## The application has the following main features:
 
